@@ -1,0 +1,5 @@
+com\spring\main\Main.class
+com\spring\model\Account.class
+com\spring\conf\ConfigApp.class
+com\spring\model\VIPAccount.class
+com\spring\aop\AspectAccount.class
